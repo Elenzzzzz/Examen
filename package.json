@@ -9,8 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "chart.js": "^4.4.0",
+    "mathjs": "^11.11.1",
+    "next": "latest",
     "react": "latest",
-    "react-dom": "latest",
-    "next": "latest"
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "latest"
   }
 }
